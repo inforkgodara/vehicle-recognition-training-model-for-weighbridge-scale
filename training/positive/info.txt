@@ -1,0 +1,14 @@
+rawdata/1.bmp 1 55 93 514 533
+rawdata/10.bmp 1 72 72 454 575
+rawdata/11.bmp 1 14 14 549 627
+rawdata/12.bmp 1 50 78 508 559
+rawdata/13.bmp 1 57 75 479 560
+rawdata/14.bmp 1 52 31 530 604
+rawdata/2.bmp 1 43 81 547 537
+rawdata/3.bmp 1 57 87 507 531
+rawdata/4.bmp 1 72 109 495 486
+rawdata/5.bmp 1 33 76 560 540
+rawdata/6.bmp 1 48 55 546 563
+rawdata/7.bmp 1 42 76 496 540
+rawdata/8.bmp 1 30 30 501 603
+rawdata/9.bmp 1 57 44 470 605
